@@ -1,7 +1,7 @@
-//package dev.bakhita.postcomments
-//
-//import android.view.View
-//
-//class PostsViewHolder(itemView: View) {
-//
-//}
+package dev.bakhita.postcomments
+
+import android.view.View
+
+class PostsViewHolder(itemView: View) {
+
+}
